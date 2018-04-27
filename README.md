@@ -1,2 +1,3 @@
 # jdk7u-dev-backup
-backup for openjdk jdk7u
+Backup for openjdk jdk7u.
+Only for study & educational use!
